@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # \<lazy-image-gallery\>
 
 image gallery
@@ -36,3 +37,7 @@ $ polymer test
 ```
 
 Your application is already set up to be tested via [web-component-tester](https://github.com/Polymer/web-component-tester). Run `polymer test` to run your application's test suite locally.
+=======
+# polymer-lazy-image-gallery
+簡單的圖片輪播
+>>>>>>> 2b6b378c08e68df458b94ac600bdb64043c03823
