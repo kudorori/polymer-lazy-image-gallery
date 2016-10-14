@@ -1,5 +1,6 @@
 {
   "name": "lazy-image-gallery",
+  "version":"0.1",
   "description": "image gallery",
   "main": "lazy-image-gallery.html",
   "dependencies": {
