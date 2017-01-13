@@ -1,7 +1,7 @@
 
 # \<lazy-image-gallery\>
 
-image gallery
+# `Dev ing`
 
 ## Install the Polymer-CLI
 
